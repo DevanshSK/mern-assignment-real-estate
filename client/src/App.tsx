@@ -7,14 +7,14 @@ import Navbar from "./components/navbar"
 
 const App = () => {
   return (
-    <div className="container mx-auto">
+    <main className="container mx-auto">
       <Navbar />
       <Header />
       <AboutUs />
       <Features />
       <Banner />
       <Footer />
-    </div>
+    </main>
   )
 }
 
