@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is the backend of the real estate assingment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "mern",
+    "real-estate",
+    "assignment"
+  ],
+  "author": "Devansh Singh Kushwah",
+  "license": "ISC"
+}
